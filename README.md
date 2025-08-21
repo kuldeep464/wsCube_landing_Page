@@ -1,7 +1,7 @@
 # Figma to HTML
 # Responsive_wsCube_landing_Page
 
-Live URL=> https://kuldeep464.github.io/wsCube_landing_Page/
+Live URL=> https://ws-cube-landing-page.vercel.app/
 
 🎯 WsCubeTech Landing Page Clone
 
